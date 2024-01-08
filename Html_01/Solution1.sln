@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3F3F075-746D-4C55-BA5F-5BE083486419}"
 	ProjectSection(SolutionItems) = preProject
 		Css_web.html = Css_web.html
+		Style.css = Style.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{7B45A0C1-8A07-45F0-8D82-C8245907ECC5}"
