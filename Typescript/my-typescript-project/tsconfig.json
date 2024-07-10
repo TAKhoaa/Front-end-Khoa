@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ESNext", 
+      "module": "CommonJS", 
+      "strict": true, 
+      "sourceMap": true, 
+      "removeComments": true,
+      "allowJs": false,
+      "outDir": "bin"
+    }, 
+    "include": ["src/**/*", "demo1_syntax_data_type.ts", "demo2_syntax_array.ts", "demo3_syntax_unknow_type.ts", "demo4_syntax.any_types.ts", "demo1_syntax_data_type.js", "demo2_syntax_array.js", "demo3_syntax_unknow_type.js"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+  }
